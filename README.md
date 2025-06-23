@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A3D8F4&height=200&section=header&text=HI%20👋,%20I'm%20Kim%20Mi%20So&fontSize=60&fontAlign=50&fontColor=ffffff" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5A1E4&height=200&section=header&text=HI%20👋,%20I'm%20Kim%20Mi%20So&fontSize=60&fontAlign=50&fontColor=ffffff" width="800"/>
 </p>
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
@@ -63,6 +63,5 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&show_icons=true&locale=en&layout=compact" alt="kim-smile" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true&locale=en" alt="kim-smile" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true&locale=en" alt="kim-smile" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kim-smile&" alt="kim-smile" /></p>
