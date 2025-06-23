@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lee Jin Su</h1>
+<h1 align="center">Hi 👋, I'm Kim Mi So</h1>
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
 - 🌱 I’m currently learning **2025 로봇 응용 SW전문가 양성 교육025 로봇 응용 SW전문가 양성 교육**
 
-- 👨‍💻 All of my projects are available at [https://jjkkhh123.github.io/profile/](https://jjkkhh123.github.io/profile/)
+- 👨‍💻 All of my projects are available at [https://kim-smile.github.io/profile/](https://kim-smile.github.io/profile/)
 
-- 💬 Ask me about **https://jjkkhh123.github.io/profile/**
+- 💬 Ask me about **https://kim-smile.github.io/profile/**
 
-- 📫 How to reach me **jjkkhh456@naver.com**
+- 📫 How to reach me **misosmile0306@naver.com**
 
-- 📄 Know about my experiences [https://jjkkhh123.github.io/profile/#experience](https://jjkkhh123.github.io/profile/#experience)
+- 📄 Know about my experiences [https://kim-smile.github.io/profile/#experience](https://kim-smile.github.io/profile/#experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
