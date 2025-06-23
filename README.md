@@ -11,7 +11,6 @@
 
 - 📄 Learn more about my experience: [Experience Section](https://kim-smile.github.io/profile/#experience)
 
-
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
