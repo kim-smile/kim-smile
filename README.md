@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5A1E4&height=200&section=header&text=HI%20👋,%20I'm%20Kim%20Mi%20So&fontSize=60&fontAlign=50&fontColor=ffffff" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A3D8F4&height=200&section=header&text=HI%20👋,%20I'm%20Kim%20Mi%20So&fontSize=60&fontAlign=50&fontColor=ffffff" width="800"/>
 </p>
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
