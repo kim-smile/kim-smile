@@ -3,15 +3,15 @@
 </p>
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
-- 🌱 I’m currently learning **2025 로봇 응용 SW전문가 양성 교육**
+- 🌱 I’m currently participating in the **2025 Robotics Software Specialist Training Program**
 
-- 👨‍💻 Check out my projects: [kim-smile.github.io/profile](https://kim-smile.github.io/profile/)
+- 👨‍💻 Check out my portfolio: [🌐 Portfolio Website](https://kim-smile.github.io/profile/)
 
 - 💬 Ask me about my portfolio
 
 - 📫 How to reach me **misosmile0306@naver.com**
 
-- 📄 Learn more about my experience: [Experience Section](https://kim-smile.github.io/profile/#experience)
+- 📄 Learn more about my project: [📌 project Section](https://kim-smile.github.io/profile/#project)
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
