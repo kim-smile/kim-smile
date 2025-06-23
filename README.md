@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kim%20Mi%20So&fontSize=80&fontAlign=40&fontColor=ffffff)
-
-<h1 align="center">Hi 👋, I'm Kim Mi So</h1>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HI%20👋,%20I'm%20Kim%20Mi%20So&fontSize=80&fontAlign=40&fontColor=ffffff)
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
 - 🌱 I’m currently learning **2025 로봇 응용 SW전문가 양성 교육**
