@@ -66,5 +66,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&show_icons=true&locale=en&layout=compact" alt="kim-smile" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true&locale=en" alt="kim-smile" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kim-smile&" alt="kim-smile" /></p>
