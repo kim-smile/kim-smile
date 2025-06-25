@@ -5,7 +5,7 @@
 
 - 🌱 Currently participating in the **2025 Robotics Software Specialist Training Program**
 
-- 👨‍💻 Explore my portfolio: [🌐 Portfolio Website](https://kim-smile.github.io/profile/)
+- 👨‍💻 Explore my portfolio: [🌐 Portfolio Website](https://good-roadway-b22.notion.site/Kim-Miso-s-Developer-Portfolio-21c62b85239180b4bb70d123061a339f?pvs=143)
 
 - 💬 Feel free to ask me about my portfolio
 
