@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
-- 🌱 Currently participating in the **2025 Robotics Software Specialist Training Program**
+- 🌱 Passionate about building intelligent systems through the **2025 Robotics Software Specialist Training Program** and the **Biohealth All-in-One Tech Innovator Program**
 
 - 👨‍💻 Explore my portfolio: [🌐 Portfolio Website](https://good-roadway-b22.notion.site/Kim-Miso-s-Developer-Portfolio-21c62b85239180b4bb70d123061a339f?pvs=143)
 
