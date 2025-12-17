@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A3D8F4&height=200&section=header&text=HI%20👋,%20I'm%20Kim%20Mi%20So&fontSize=60&fontAlign=50&fontColor=ffffff" width="800"/>
 </p>
-<h3 align="center">나사렛대학교 IT인공지학부</h3>
+<h3 align="center">Nazarene University · Department of IT & Artificial Intelligence</h3>
 
 - 🌱 AI & Backend Developer passionate about building intelligent systems  
   Currently trained through the **2025 Robotics Software Specialist Program** and the **Biohealth All-in-One Tech Innovator Program**
