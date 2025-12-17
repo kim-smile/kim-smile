@@ -18,44 +18,44 @@
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
     </td>
   </tr>
 
   <tr>
     <td><b>Backend & DB</b></td>
     <td>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/>
+      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="35"/>
     </td>
   </tr>
 
   <tr>
     <td><b>Robotics & Game</b></td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="35"/>
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="35"/>
     </td>
   </tr>
 
   <tr>
     <td><b>Infra & Tools</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/>
     </td>
   </tr>
 
   <tr>
     <td><b>Design</b></td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="35"/>
     </td>
   </tr>
 </table>
