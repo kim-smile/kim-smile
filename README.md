@@ -64,10 +64,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&show_icons=true&locale=en&layout=compact" alt="kim-smile" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true&locale=en" alt="kim-smile" />
     </td>
   </tr>
 </table>
