@@ -60,5 +60,14 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&show_icons=true&locale=en&layout=compact" alt="kim-smile" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true&locale=en" alt="kim-smile" /></p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&layout=compact" />
+    </td>
+  </tr>
+</table>
