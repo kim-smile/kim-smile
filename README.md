@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A3D8F4&height=200&section=header&text=HI%20👋,%20I'm%20Kim%20Mi%20So&fontSize=60&fontAlign=50&fontColor=ffffff" width="800"/>
 </p>
-<h3 align="center">나사렛대학교 IT융합학부</h3>
+<h3 align="center">나사렛대학교 IT인공지학부</h3>
 
-- 🌱 Developer passionate about building intelligent systems  
-Currently trained through the **2025 Robotics Software Specialist Program** and the **Biohealth All-in-One Tech Innovator Program**
+- 🌱 AI & Backend Developer passionate about building intelligent systems  
+  Currently trained through the **2025 Robotics Software Specialist Program**  
+  and the **Biohealth All-in-One Tech Innovator Program**
 
 - 👨‍💻 Explore my work & projects  
 👉 [Portfolio Website](https://good-roadway-b22.notion.site/Kim-Miso-s-Developer-Portfolio-21c62b85239180b4bb70d123061a339f?pvs=143)
@@ -60,5 +61,9 @@ Currently trained through the **2025 Robotics Software Specialist Program** and 
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&show_icons=true&locale=en&layout=compact" alt="kim-smile" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true&locale=en" alt="kim-smile" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-smile&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kim-smile&show_icons=true" />
+</p>
