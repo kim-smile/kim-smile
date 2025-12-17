@@ -3,13 +3,15 @@
 </p>
 <h3 align="center">나사렛대학교 IT융합학부</h3>
 
-- 🌱 Passionate about building intelligent systems through the **2025 Robotics Software Specialist Training Program** and the **Biohealth All-in-One Tech Innovator Program**
+🌱 Developer passionate about building intelligent systems  
+Currently trained through the **2025 Robotics Software Specialist Program** and the **Biohealth All-in-One Tech Innovator Program**
 
-- 👨‍💻 Explore my portfolio: [🌐 Portfolio Website](https://good-roadway-b22.notion.site/Kim-Miso-s-Developer-Portfolio-21c62b85239180b4bb70d123061a339f?pvs=143)
+👨‍💻 Explore my work & projects  
+👉 [Portfolio Website](https://good-roadway-b22.notion.site/Kim-Miso-s-Developer-Portfolio-21c62b85239180b4bb70d123061a339f?pvs=143)
 
-- 💬 Feel free to ask me about my portfolio
+💬 Feel free to ask me about my projects or development experience
 
-- 📫 Contact me at **misosmile0306@naver.com**
+📫 Contact: **misosmile0306@naver.com**
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
