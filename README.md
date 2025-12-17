@@ -14,6 +14,11 @@
 - 📫 Contact: **misosmile0306@naver.com**
 
 <h3 align="left">💻 Languages and Tools:</h3>
+💻 Languages: C, C++, C#, Java, JavaScript, Python  
+🛠 Backend & DB: Spring, MySQL, MariaDB  
+🤖 Robotics & Game: Arduino, Unity  
+⚙ Infra & Tools: Docker, Linux  
+🎨 Design: Photoshop
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
